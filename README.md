@@ -25,7 +25,7 @@ This repository contains **only framework code and documentation**. It does NOT 
 
 | Contact      | Address                |
 | ------------ | ---------------------- |
-| **Telegram** | <https://t.me/Jeequannx> |
+| **Telegram** | <https://t.me/Jeequann> |
 
 - **Technical support pricing: 250 USD** one-time fee, includes one full exploit chain integration and one iOS version adaptation.
 - Only accepts **legally authorized research** inquiries. **No attack commissions against real victims will be accepted.**
